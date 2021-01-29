@@ -1,0 +1,118 @@
+[
+  {"section_title": "Starters",
+    "subtitle": "",
+    "menu_items": {
+      "Wings": ["na","A full pound of hand breaded chicken wings with buffalo, smoky sweet dry rub, bbq, or spicy honey garlic sauce","$12"],
+      "Chicken Tenders": ["na","crispy breaded chicken served buffalo style, smoky sweet dry rub, bbq or spicy honey garlic","$11"],
+      "Black Bean Quesadilla": ["na", "fresh veggies, cilantro cheddar jack cheese, toasted cumin and black beans served w/ sour cream & pico de gallo", "$9", "na", "add chicken", "$2"],
+      "Fried Pickles": ["na", "sour and crispy served with buttermilk ranch","$10"],
+      "Irish Nachos": ["gs", "house fried potato chips, cheddar, bacon, fresh scallions, jalapenos and sour cream", "$10", "na", "add chicken", "$2"],
+      "GoGo Bites": ["na", "deep fried bites filled with jalapenos, roasted corn, bacon & cream cheese, deep fried and served with BBQ drizzle", "$8"],
+      "Fried Green Beans": ["na", "dusted with parmesan, served w/ sundried tomato aioli", "$11"],
+      "Pemi Dip": ["na", "creamy bacon dip w/ a 3 cheese blend, whole grain mustard, caramelized onion and scallions served w/warm soft pretzel bites", "$11"]
+    }
+  },
+  {"section_title": "Soups & Salads",
+    "subtitle": "",
+    "menu_items": {
+      "Soup of the Day": ["na", "","Priced Daily"],
+      "Chili": ["na", "served w/ cheese and green onion", "$7", "na", "add sourdough garlic bread", "$2"],
+      "Harvest Salad": ["gf", "baby spinach, local apples, goat cheese, bacon, candied walnuts, red onion, tossed in apple cider dressing", "$13"],
+      "Greek Wedge": ["gf", "romaine heart wedge, cucumbers, kalamata olives, red onion, pepperoncini, cherry tomato, feta served w/Greek dressing","$13"],
+      "Garden Salad": ["na", "cucumbers, tomatoes, carrots, red onions, peppers and croutons on mixed greens", "$9"],
+      "Add Protein to Any Salad": ["gf", "grilled or buffalo chicken", "$3", "na", "chicken tenders", "$4", "na", "quinoa burger", "$5", "gf", "beyond burger", "$8"],
+      "Baked Potato": ["gf", "w/butter and sour cream", "$4", "na", "add chili", "$2", "na", "add cheese", "$1", "na", "add bacon & scallions", "$2"]
+    }
+  },
+  {"section_title": "Flatbreads",
+    "subtitle": "",
+    "menu_items": {
+      "Public House": ["na", "mozzarella, pesto, feta, sliced tomatoes, roasted garlic, salami", "$12"],
+      "Meat Flatbread": ["na", "red sauce, mozzarella, pepperoni, salami, bacon", "$12"],
+      "BLT Flatbread": ["na", "pemi dip base, bacon, tomatoes, chopped spinach, spicy mayo drizzle", "$12"],
+      "BBQ Chicken Flatbread": ["na", "ranch, shredded chicken, mozzarella, cheddar, bacon, bbq, onions", "$12"],
+      "Build Your Own Flatbread": ["na", "", "$10", "na", "Toppings: pepperoni, shredded chicken, buffalo shredded chicken, bacon, salami, onions, peppers, tomatoes, mushrooms, roasted garlic, feta, pesto", "$0.75/each"]
+    }
+  },
+  {"section_title": "Sandwiches",
+    "subtitle": "Served w/house potato chips and a pickle.  Substitute hand cut fries or house salad for $2, truffle fries for $2.50. Add a side salad or a cup of soup to any Sandwich for $3.  Add a cup of chili for $3.50. Substitute a gluten free roll to any sandwich for $1",
+    "menu_items": {
+      "Chicken Sandwich": ["na", "grilled chicken w/ cheddar, bacon, lettuce, tomato & onion, garlic aioli. Served on a brioche roll", "$11"],
+      "Lulu's Big Dog": ["na", "quarter pound hot dog on grilled brioche bun with sautéed peppers & onions, stone ground mustard", "$9", "na", "add bacon", "$2", "na", "add cheese", "$1", "na", "add chili", "$2"],
+      "Pemi Sliders*": ["na", "2 angus beef patties topped with cheddar, bacon, garlic aioli, lettuce & tomato, on grilled brioche.  Served w/hand cut fries", "$12"],
+      "Quinoa 'Burger'": ["na", "red quinoa, lentil and roasted garlic “burger” w/baby spinach, goat cheese, red onion, sundried tomato basil aioli on brioche roll", "$12"],
+      "Steak Bomb": ["na", "lean grilled shaved steak, peppers, onions, mushrooms, pepperoni & cheddar with garlic aioli on toasted french roll", "$12"],
+      "Banh Mi": ["na", "slow roasted pork, pickled carrots, thin sliced cucumbers, jalapenos & fresh cilantro w/ spicy mayo, served on toasted french roll", "$14"],
+      "Beyond Burger": ["na", "pea protein burger that satisfies and tastes like beef!  Served on grilled brioche with lettuce, onion, and tomato", "$15", "na", "add bacon", "$2", "na", "add cheese", "$1"]
+    }
+  },
+  {"section_title": "Public House Meals",
+    "subtitle": "Add a side salad or a cup of soup to any meal for $3 or a cup of chili for $3.50",
+    "menu_items": {
+      "Asian Chicken": ["na", "marinated chicken over vegetable slaw, finished with sweet soy glaze and sesame seeds. Served with chilled lo mein salad", "$14"],
+      "Caprese Chicken": ["gf", "grilled chicken topped with fresh mozzarella, fresh basil & roasted cherry tomatoes. Served w/veg of the day and baked potato", "$15"],
+      "Baked Mac & Cheese": ["na", "cavatappi pasta in three cheese sauce topped with buttered ritz crumbs", "$12", "na", "add bacon, chili, or chicken", "$3"],
+      "Tom's Chicken Pot Pie": ["na", "tender chunks of chicken with potatoes, peas, carrots and onions topped with puffed pastry", "$13"],
+      "Shepard's Pie": ["na", "the Pemi’s twist on a classic - seasoned ground beef in a merlot gravy with carrots, peas and onions topped and baked with whipped potatoes", "$14"],
+      "Beer Battered Fish & Chips": ["na", "beer battered haddock, hand cut fries, tartar", "$16"],
+      "Naan Tacos": ["na", "pulled chicken, cotija cheese, roasted corn salsa, pico de gallo, chipotle lime sour cream on mini naan", "$14", "na", "Try it veg style! (sub black beans for chicken)", ""]
+    }
+  },
+  {"section_title": "Sides",
+    "subtitle": "",
+    "menu_items": {
+      "Handcut Fries": ["gs", "", "$4"],
+      "Truffle Parmesan Fries": ["gs", "", "$7"],
+      "Baked Potato": ["gf", "", "$4"],
+      "Side Salad": ["gf", "", "$4"],
+      "Vegetable of the Day": ["gf", "", "$4"],
+      "Chilled Lo Mein Salad": ["na", "", "$5"]
+    }
+  },
+  {"section_title": "Kids Menu (10 & Under)",
+    "subtitle": "",
+    "menu_items": {
+      "Chicken Fingers & fries": ["na", "", "$6"],
+      "Kids Hamburger & fries": ["na", "", "$6"],
+      "Mac & Cheese": ["na", "", "$6"]
+    }
+  },
+  {"section_title": "Specialty Cocktails",
+    "subtitle": "",
+    "menu_items": {
+      "LA’s Bourbon Sour": ["na", "bulleit, fresh lemon, local maple syrup, luxardo cherry", ""],
+      "Sinner": ["na", "pbr hard coffee, peanut butter whiskey, on the rocks", ""],
+      "Dirty Unicorn": ["na", "cucumber mint vodka, lemonade, tonic, empress indigo gin", ""],
+      "Pemi Rum Punch": ["na", "rum trio, banana, grenadine, juice", ""],
+      "Mule Barrell": ["na", "jim beam black, cider, pumpkin spices, ginger beer", ""],
+      "Skinny Margarita": ["na", "hornitos silver, fresh lime, cointreau (try it with blackberry!)", ""],
+      "Honey Badger": ["na", "casamigos reposado, grapefruit, honey, aperol, cinnamon rim", ""],
+      "Winter Sangria": ["na", "", ""]
+    }
+  },
+  {"section_title": "Red Wines",
+    "subtitle": "",
+    "menu_items": {
+      "Woodbridge Merlot": ["na", "", "$6.50"],
+      "Bogle Merlot": ["na", "", "$9"],
+      "Woodbridge Cabernet Sauvignon": ["na", "", "$6.50"],
+      "Josh Cellars Cabernet Sauvignon": ["na", "", "$9"],
+      "Woodbridge Pinot Noir": ["na", "", "$6.50"],
+      "Mark West Pinot Noir": ["na", "", "$9"],
+      "14 Hands Hot to Trot Red Blend": ["na", "", "$7"]
+    }
+  },
+  {"section_title": "White Wines",
+    "subtitle": "",
+    "menu_items": {
+      "Woodbridge Chardonnay": ["na", "", "$6.50"],
+      "Toasted Head Chardonnay": ["na", "", "$8"],
+      "Woodbridge Pinot Grigio": ["na", "", "$6.50"],
+      "Ecco Domani Pinot Grigio": ["na", "", "$7.50"],
+      "Woodbridge Sauvignon Blanc": ["na", "", "$6.50"],
+      "Oyster Sauvignon Blanc": ["na", "", "$$7.50"],
+      "Seaglass Riesling": ["na", "", "$7.50"],
+      "Josh Cellars Rose": ["na", "", "$9"]
+    }
+  }
+]
