@@ -78,13 +78,15 @@
   {"section_title": "Specialty Cocktails",
     "subtitle": "",
     "menu_items": {
-      "LA’s Bourbon Sour": ["na", "bulleit, fresh lemon, local maple syrup, luxardo cherry", ""],
-      "Sinner": ["na", "pbr hard coffee, peanut butter whiskey, on the rocks", ""],
+      "Rose Spritzer": ["na", "josh rose, saint elder, soda, fresh mint", ""],
+      "Sinner": ["na", "pbr hard coffee, peanut butter whiskey, on the rocks topped with reese's puffs", ""],
       "Dirty Unicorn": ["na", "cucumber mint vodka, lemonade, tonic, empress indigo gin", ""],
       "Pemi Rum Punch": ["na", "rum trio, banana, grenadine, juice", ""],
       "Skinny Margarita": ["na", "hornitos silver, fresh lime, cointreau (try it with blackberry!)", ""],
-      "Honey Badger": ["na", "casamigos reposado, grapefruit, honey, aperol, cinnamon rim", ""],
-      "Winter Sangria": ["na", "", ""]
+      "Shark Week": ["na", "island pucker, pineapple juice, truly wild berry draft", ""],
+      "Strawberry Patch Mule": ["na", "strawberry vodka, ginger beer, soda, fresh lime, touch of grenadine", ""],
+      "East Branch Burboun Tea": ["na", "bourbon, peach tree, lemonade, iced tea, fresh mint", ""],
+      "Daily Sangria": ["na", "", ""]
     }
   },
   {"section_title": "Red Wines",
