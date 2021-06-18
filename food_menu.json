@@ -2,6 +2,7 @@
   {"section_title": "Starters",
     "subtitle": "",
     "menu_items": {
+      "Wings": ["na", "A full pound of hand breaded chicken wings served with korean bbq, buffalo, smoky sweet dry rub, bbq or spicy honey garlic sauce", "$14"],
       "Chicken Tenders": ["na","crispy breaded chicken served buffalo style, smoky sweet dry rub, bbq, korean bbq, spicy honey garlic","$11"],
       "Black Bean Quesadilla": ["na", "fresh veggies, cilantro cheddar jack cheese, toasted cumin and black beans served w/ sour cream & pico de gallo", "$10", "na", "add adobo chicken", "$2"],
       "Fried Pickles": ["na", "sour and crispy served with buttermilk ranch","$11"],
@@ -16,7 +17,7 @@
     "subtitle": "",
     "menu_items": {
       "New England Clam Chowder": ["na", "thick and creamy, made with fresh clams, bacon, celery, onion & potatoes", "$8", "na", "add garlic bread", "$2"],
-      "BurrAta Caprese": ["na", "burrata, heirloom tomatoes, herb infused olive oil, balsamic drizzle and toasted sourdough", "$13"],
+      "Burrata Caprese": ["na", "burrata, heirloom tomatoes, herb infused olive oil, balsamic drizzle and toasted sourdough", "$13"],
       "Summer Salad": ["gf", "baby watermelon, cherry tomatoes, red onion, feta, lemon honey dressed arugula","$13"],
       "Chopped Greek w/Shrimp": ["gf", "cucumbers, cherry tomatoes, kalamata olives, red onion, feta, marinated grilled shrimp", "$16"],
       "Garden Salad": ["na", "cucumbers, tomatoes, carrots, red onions, peppers and croutons on mixed greens", "$9"],
