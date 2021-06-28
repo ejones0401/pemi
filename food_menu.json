@@ -24,17 +24,6 @@
       "Add Protein to Any Salad": ["gf", "grilled or buffalo chicken", "$3", "na", "chicken tenders", "$4", "na", "quinoa burger", "$5", "gf", "shrimp", "$7", "gf", "beyond burger", "$8"]
      }
   },
-  {"section_title": "Flatbreads",
-    "subtitle": "",
-    "menu_items": {
-      "Public House": ["na", "mozzarella, pesto, feta, sliced tomatoes, roasted garlic, salami", "$14"],
-      "Roasted Mushroom & Goat Cheese Flatbread": ["na", "roasted garlic puree, cremini mushrooms, herbed goat cheese topped with balsamic arugula salad", "$14"],
-      "Meat Flatbread": ["na", "red sauce, mozzarella, pepperoni, salami, bacon", "$13"],
-      "BLT Flatbread": ["na", "pemi dip base, bacon, tomatoes, chopped spinach, spicy mayo drizzle", "$14"],
-      "BBQ Chicken Flatbread": ["na", "ranch, shredded chicken, mozzarella, cheddar, bacon, bbq, onions", "$14"],
-      "Build Your Own Flatbread": ["na", "", "$12", "na", "Toppings: pepperoni, shredded chicken, buffalo shredded chicken, bacon, salami, onions, peppers, tomatoes, mushrooms, roasted garlic, feta, pesto", "$0.75/each"]
-    }
-  },
   {"section_title": "Sandwiches",
     "subtitle": "Served w/house potato chips and a pickle.  Substitute hand cut fries or house salad for $2, truffle fries for $2.50. Add a side salad or a cup of chowder to any Sandwich for $3. Substitute a gluten free roll to any sandwich for $2",
     "menu_items": {
