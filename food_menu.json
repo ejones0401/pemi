@@ -21,23 +21,23 @@
       "Summer Salad": ["gf", "baby watermelon, cherry tomatoes, red onion, feta, lemon honey dressed arugula","$13"],
       "Chopped Greek w/Shrimp": ["gf", "cucumbers, cherry tomatoes, kalamata olives, red onion, feta, marinated grilled shrimp", "$16"],
       "Garden Salad": ["na", "cucumbers, tomatoes, carrots, red onions, peppers and croutons on mixed greens", "$9"],
-      "Add Protein to Any Salad": ["gf", "grilled or buffalo chicken", "$3", "na", "chicken tenders", "$4", "na", "quinoa burger", "$5", "gf", "shrimp", "$7", "gf", "beyond burger", "$8"]
+       "Add Protein to Any Salad": ["gf", "grilled or buffalo chicken", "$3", "na", "chicken tenders", "$4", "na", "quinoa burger", "$5", "gf", "shrimp", "$7", "gf", "beyond burger", "$8"]
+      }
+   },
+   {"section_title": "Flatbreads",
+     "subtitle": "",
+     "menu_items": {
+       "Public House": ["na", "mozzarella, pesto, feta, sliced tomatoes, roasted garlic, salami", "$14"],
+       "Roasted Mushroom & Goat Cheese Flatbread": ["na", "roasted garlic puree, cremini mushrooms, herbed goat cheese topped with balsamic arugula salad", "$14"],
+       "Meat Flatbread": ["na", "red sauce, mozzarella, pepperoni, salami, bacon", "$13"],
+       "BLT Flatbread": ["na", "pemi dip base, bacon, tomatoes, chopped spinach, spicy mayo drizzle", "$14"],
+       "BBQ Chicken Flatbread": ["na", "ranch, shredded chicken, mozzarella, cheddar, bacon, bbq, onions", "$14"],
+       "Build Your Own Flatbread": ["na", "", "$12", "na", "Toppings: pepperoni, shredded chicken, buffalo shredded chicken, bacon, salami, onions, peppers, tomatoes, mushrooms, roasted garlic, feta, pesto", "$0.75/each"]
      }
-  },
-  {"section_title": "Flatbreads",
-    "subtitle": "",
-    "menu_items": {
-      "Public House": ["na", "mozzarella, pesto, feta, sliced tomatoes, roasted garlic, salami", "$14"],
-      "Roasted Mushroom & Goat Cheese Flatbread": ["na", "roasted garlic puree, cremini mushrooms, herbed goat cheese topped with balsamic arugula salad", "$14"],
-      "Meat Flatbread": ["na", "red sauce, mozzarella, pepperoni, salami, bacon", "$13"],
-      "BLT Flatbread": ["na", "pemi dip base, bacon, tomatoes, chopped spinach, spicy mayo drizzle", "$14"],
-      "BBQ Chicken Flatbread": ["na", "ranch, shredded chicken, mozzarella, cheddar, bacon, bbq, onions", "$14"],
-      "Build Your Own Flatbread": ["na", "", "$12", "na", "Toppings: pepperoni, shredded chicken, buffalo shredded chicken, bacon, salami, onions, peppers, tomatoes, mushrooms, roasted garlic, feta, pesto", "$0.75/each"]
-    }
-  },
-  {"section_title": "Sandwiches",
-    "subtitle": "Served w/house potato chips and a pickle.  Substitute hand cut fries or house salad for $2, truffle fries for $2.50. Add a side salad or a cup of chowder to any Sandwich for $3. Substitute a gluten free roll to any sandwich for $2",
-    "menu_items": {
+   },
+   {"section_title": "Sandwiches",
+     "subtitle": "Served w/house potato chips and a pickle.  Substitute hand cut fries or house salad for $2, truffle fries for $2.50. Add a side salad or a cup of chowder to any Sandwich for $3. Substitute a gluten free roll to any sandwich for $2",
+     "menu_items": {
       "Chicken Sandwich": ["na", "grilled chicken w/ cheddar, bacon, lettuce, tomato & onion, garlic aioli. Served on a brioche roll", "$12"],
       "Lulu's Big Dog": ["na", "quarter pound hot dog on grilled brioche bun with sautéed peppers & onions, stone ground mustard", "$10", "na", "add bacon", "$2", "na", "add cheese", "$1"],
       "Pemi Sliders*": ["na", "2 angus beef patties topped with cheddar, bacon, garlic aioli, lettuce & tomato, on grilled brioche.  Served w/hand cut fries", "$14"],
@@ -73,6 +73,44 @@
       "Chicken Fingers & fries": ["na", "", "$6"],
       "Kids Hamburger & fries": ["na", "", "$6"],
       "Mac & Cheese": ["na", "", "$6"]
+    }
+  },
+  {"section_title": "Specialty Cocktails",
+    "subtitle": "",
+    "menu_items": {
+      "Rose Spritzer": ["na", "josh rose, saint elder, soda, fresh mint", ""],
+      "Sinner": ["na", "pbr hard coffee, peanut butter whiskey, on the rocks topped with reese's puffs", ""],
+      "Dirty Unicorn": ["na", "cucumber mint vodka, lemonade, tonic, empress indigo gin", ""],
+      "Pemi Rum Punch": ["na", "rum trio, banana, grenadine, juice", ""],
+      "Skinny Margarita": ["na", "hornitos silver, fresh lime, cointreau (try it with blackberry!)", ""],
+      "Shark Week": ["na", "island pucker, pineapple juice, truly wild berry draft", ""],
+      "Strawberry Patch Mule": ["na", "strawberry vodka, ginger beer, soda, fresh lime, touch of grenadine", ""],
+      "East Branch Bourbon Tea": ["na", "bourbon, peach tree, lemonade, iced tea, fresh mint", ""],
+      "Daily Sangria": ["na", "", ""]
+    }
+  },
+  {"section_title": "Red Wines",
+    "subtitle": "",
+    "menu_items": {
+      "Woodbridge Merlot": ["na", "", "$6.50"],
+      "Bogle Merlot": ["na", "", "$9"],
+      "Woodbridge Cabernet Sauvignon": ["na", "", "$6.50"],
+      "Josh Cellars Cabernet Sauvignon": ["na", "", "$9"],
+      "Woodbridge Pinot Noir": ["na", "", "$6.50"],
+      "14 Hands Hot to Trot Red Blend": ["na", "", "$7"]
+    }
+  },
+  {"section_title": "White Wines",
+    "subtitle": "",
+    "menu_items": {
+      "Woodbridge Chardonnay": ["na", "", "$6.50"],
+      "Toasted Head Chardonnay": ["na", "", "$8"],
+      "Woodbridge Pinot Grigio": ["na", "", "$6.50"],
+      "Ecco Domani Pinot Grigio": ["na", "", "$7.50"],
+      "Woodbridge Sauvignon Blanc": ["na", "", "$6.50"],
+      "Oyster Sauvignon Blanc": ["na", "", "$7.50"],
+      "Seaglass Riesling": ["na", "", "$7.50"],
+      "Josh Cellars Rose": ["na", "", "$9"]
     }
   }
 ]
