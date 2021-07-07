@@ -8,7 +8,7 @@
 		      "Fried Pickles": ["na", "sour and crispy served with buttermilk ranch","$11"],
 		      "Irish Nachos": ["gs", "house fried potato chips, cheddar, bacon, fresh scallions, jalapenos and sour cream", "$10", "na", "add adobo chicken", "$2"],
 		      "Shrimp Cocktail": ["gf", "served with brandy cocktail sauce", "$13"],
-		      "BBQ Dusted Onion Rings": ["na", "served with spicy maple dipping sauce", "$8"],
+		      "Rings of Fire": ["na", "dry rub seasoned onion rings, served with spicy maple dipping sauce", "$8"],
 		      "GoGo Bites": ["na", "deep fried bites filled with jalapenos, roasted corn, bacon & cream cheese, deep fried and served with BBQ drizzle", "$10"],
 		      "Pemi Dip": ["na", "creamy bacon dip w/ a 3 cheese blend, whole grain mustard, caramelized onion and scallions served w/warm soft pretzel bites", "$12"]
 		    }
@@ -16,10 +16,9 @@
 		  {"section_title": "Soups & Salads",
 		    "subtitle": "",
 		    "menu_items": {
-		      "New England Clam Chowder": ["na", "thick and creamy, made with fresh clams, bacon, celery, onion & potatoes", "$8", "na", "add garlic bread", "$2"],
+		      "New England Clam Chowder": ["na", "thick and creamy, made with fresh clams, bacon, celery, onion & potatoes", "$8"],
 		      "Burrata Caprese": ["na", "burrata, heirloom tomatoes, herb infused olive oil, balsamic drizzle and toasted sourdough", "$13"],
 		      "Summer Salad": ["gf", "baby watermelon, cherry tomatoes, red onion, feta, lemon honey dressed arugula","$13"],
-		      "Chopped Greek w/Shrimp": ["gf", "cucumbers, cherry tomatoes, kalamata olives, red onion, feta, marinated grilled shrimp", "$16"],
 		      "Garden Salad": ["na", "cucumbers, tomatoes, carrots, red onions, peppers and croutons on mixed greens", "$9"],
 		      "Add Protein to Any Salad": ["gf", "grilled or buffalo chicken", "$3", "na", "chicken tenders", "$4", "na", "quinoa burger", "$5", "gf", "shrimp", "$7", "gf", "beyond burger", "$8"]
 		     }
@@ -51,10 +50,9 @@
 		    "subtitle": "Add a side salad or a cup of soup to any meal for $3",
 		    "menu_items": {
 		      "Asian Chicken": ["na", "marinated chicken over vegetable slaw, finished with sweet soy glaze and sesame seeds. Served with chilled lo mein salad", "$14"],
-		      "Grilled Ahi Tuna*": ["na", "soy lime grilled ahi tuna, smashed avocado, cucumber ginger salad served w/basmati rice", "$17"],
 		      "Caprese Chicken": ["gf", "grilled chicken topped with burrata & herb infused oil, balsamic reduction, served on sliced hierloom tomatoes.  Served w/veg of the day & basmati rice.", "$15"],
 		      "Beer Battered Fish & Chips": ["na", "beer battered haddock, hand cut fries, tartar (Friday through Sunday while they last!)", "$16"],
-		      "Steak Tips Frites*": ["gs", "grilled marinated beef tenderloin tips topped with herbed butter, served with truffle parmesan fries and vegetable of the day", "$20"],
+		      "Pesto Grilled Shrimp Skewers": ["gf", "served with basmati rice and vegetable of the day", "$16"],
 		      "Naan Tacos": ["na", "adobo pulled chicken, cotija cheese, roasted corn, pico de gallo, cilantro lime sour cream on mini naan", "$14", "na", "Try it veg style! (sub black beans for chicken)", ""]
 		    }
 		  },
@@ -70,7 +68,7 @@
   {"section_title": "Kids Menu (10 & Under)",
     "subtitle": "",
     "menu_items": {
-      "Chicken Fingers & fries": ["na", "", "$6"],
+      "Grilled Chicken and vegetable of the day": ["gf", "", "$6"],
       "Kids Hamburger & fries": ["na", "", "$6"],
       "Mac & Cheese": ["na", "", "$6"]
     }
