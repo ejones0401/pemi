@@ -6,6 +6,7 @@
 		      "Chicken Tenders": ["na","crispy breaded chicken served buffalo style, smoky sweet dry rub, bbq, korean bbq, spicy honey garlic","$11"],
 		      "Black Bean Quesadilla": ["na", "fresh veggies, cilantro cheddar jack cheese, toasted cumin and black beans served w/ sour cream & pico de gallo", "$10", "na", "add adobo chicken", "$2"],
 		      "Rings of Fire": ["na", "dry rub seasoned onion rings served w/ spicy maple dipping sauce","$8"],
+		      "Fried Pickles": ["na", "sour and crispy, served with buttermilk ranch", "$11"],
 		      "Irish Nachos": ["gs", "house fried potato chips, cheddar, bacon, fresh scallions, jalapenos and sour cream", "$10", "na", "add adobo chicken", "$2"],
 		      "Shrimp Cocktail": ["gf", "served with brandy cocktail sauce", "$13"],
 		      "GoGo Bites": ["na", "deep fried bites filled with jalapenos, roasted corn, bacon & cream cheese, deep fried and served with BBQ drizzle", "$10"],
@@ -19,7 +20,7 @@
 		      "Burrata Caprese": ["na", "burrata, heirloom tomatoes, herb infused olive oil, balsamic drizzle and toasted sourdough", "$13"],
 		      "Summer Salad": ["gf", "baby watermelon, cherry tomatoes, red onion, feta, lemon honey dressed arugula","$13"],
 		      "Garden Salad": ["na", "cucumbers, tomatoes, carrots, red onions, peppers and croutons on mixed greens", "$9"],
-		      "Add Protein to Any Salad": ["gf", "grilled or buffalo chicken", "$3", "na", "chicken tenders", "$4", "na", "quinoa burger", "$5", "gf", "shrimp", "$7", "gf", "beyond burger", "$8"]
+		      "Add Protein to Any Salad": ["gf", "grilled or buffalo chicken", "$3", "na", "chicken tenders", "$4", "na", "quinoa burger", "$5", "gf", "shrimp", "$7"]
 		     }
 		  },
 		  {"section_title": "Flatbreads",
@@ -42,8 +43,7 @@
 		      "Quinoa 'Burger'": ["na", "red quinoa, lentil and roasted garlic “burger” w/marinated tomato, pickled red onion, arugula, herbed goat cheese, garlic aioli on brioche roll", "$12"],
 		      "Steak Bomb": ["na", "lean grilled shaved steak, peppers, onions, mushrooms, pepperoni & cheddar with garlic aioli on toasted french roll", "$13"],
 		      "Lobster Roll": ["na", "garlic aioli on grilled brioche roll (Friday through Sunday Only - While they last!)", "MP"],    
-		      "Banh Mi": ["na", "slow roasted pork, pickled carrots, thin sliced cucumbers, jalapenos & fresh cilantro w/ spicy mayo, served on toasted french roll", "$14"],
-		      "Beyond Burger": ["na", "pea protein burger that satisfies and tastes like beef!  Served on grilled brioche with lettuce, onion, and tomato", "$15", "na", "add bacon", "$2", "na", "add cheese", "$1"]
+		      "Banh Mi": ["na", "slow roasted pork, pickled carrots, thin sliced cucumbers, jalapenos & fresh cilantro w/ spicy mayo, served on toasted french roll", "$14"]
 		    }
 		  },
 		  {"section_title": "Public House Meals",
