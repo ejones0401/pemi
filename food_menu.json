@@ -35,7 +35,7 @@
 		    }
 		  },
 		  {"section_title": "Sandwiches",
-		    "subtitle": "Served w/house potato chips and a pickle.  Substitute hand cut fries or house salad for $2, truffle fries for $2.50. Add a side salad or a cup of chowder to any Sandwich for $3. Substitute a gluten free roll to any sandwich for $2",
+		    "subtitle": "Served w/house potato chips and a pickle.  Substitute hand cut fries or house salad for $2, truffle fries for $2.50. Add a side salad or a cup of chowder to any Sandwich for $3.",
 		    "menu_items": {
 		      "Chicken Sandwich": ["na", "grilled chicken w/ cheddar, bacon, lettuce, tomato & onion, garlic aioli. Served on a brioche roll", "$12"],
 		      "Lulu's Big Dog": ["na", "quarter pound hot dog on grilled brioche bun with sautéed peppers & onions, stone ground mustard", "$10", "na", "add bacon", "$2", "na", "add cheese", "$1"],
