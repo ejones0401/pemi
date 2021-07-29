@@ -20,7 +20,7 @@
 		      "Burrata Caprese": ["na", "burrata, heirloom tomatoes, herb infused olive oil, balsamic drizzle and toasted sourdough", "$13"],
 		      "Summer Salad": ["gf", "baby watermelon, cherry tomatoes, red onion, feta, lemon honey dressed arugula","$13"],
 		      "Garden Salad": ["na", "cucumbers, tomatoes, carrots, red onions, peppers and croutons on mixed greens", "$9"],
-		      "Add Protein to Any Salad": ["gf", "grilled or buffalo chicken", "$3", "na", "chicken tenders", "$4", "na", "quinoa burger", "$5", "gf", "shrimp", "$7", "gf", "impossible burger", "$8"]
+		      "Add Protein to Any Salad": ["gf", "grilled or buffalo chicken", "$3", "na", "chicken tenders", "$4", "na", "quinoa burger", "$5", "gf", "shrimp", "$7", "gf", "beyond burger", "$8"]
 		     }
 		  },
 		  {"section_title": "Flatbreads",
@@ -44,7 +44,7 @@
 		      "Steak Bomb": ["na", "lean grilled shaved steak, peppers, onions, mushrooms, pepperoni & cheddar with garlic aioli on toasted french roll", "$13"],
 		      "Lobster Roll": ["na", "garlic aioli on grilled brioche roll (Friday through Sunday Only - While they last!)", "MP"],    
 		      "Banh Mi": ["na", "slow roasted pork, pickled carrots, thin sliced cucumbers, jalapenos & fresh cilantro w/ spicy mayo, served on toasted french roll", "$14"],
-		      "Impossible Burger": ["na", "plant based burger that satisfies and tastes like beef!  Served on grilled brioche with lettuce, onion, and tomato", "$15", "na", "add bacon", "$2", "na", "add cheese", "$1"]
+		      "Beyond Burger": ["na", "pea protein based burger that satisfies and tastes like beef!  Served on grilled brioche with lettuce, onion, and tomato", "$15", "na", "add bacon", "$2", "na", "add cheese", "$1"]
 		    }
 		  },
 		  {"section_title": "Public House Meals",
