@@ -6,6 +6,7 @@
 		      "Chicken Tenders": ["na","crispy breaded chicken served buffalo style, smoky sweet dry rub, bbq, korean bbq, spicy honey garlic","$11"],
 		      "Black Bean Quesadilla": ["na", "fresh veggies, cilantro cheddar jack cheese, toasted cumin and black beans served w/ sour cream & pico de gallo", "$10", "na", "add adobo chicken", "$2"],
 		      "Fried Pickles": ["na", "sour and crispy, served with buttermilk ranch", "$11"],
+		      "Rings of Fire": ["na", "dry rub seasonsed onion rings, served with spicy maple dipping sauce", "$8"],
 		      "Irish Nachos": ["gs", "house fried potato chips, cheddar, bacon, fresh scallions, jalapenos and sour cream", "$10", "na", "add adobo chicken", "$2"],
 		      "Shrimp Cocktail": ["gf", "served with brandy cocktail sauce", "$13"],
 		      "GoGo Bites": ["na", "deep fried bites filled with jalapenos, roasted corn, bacon & cream cheese, deep fried and served with BBQ drizzle", "$10"],
@@ -33,7 +34,7 @@
 		    }
 		  },
 		  {"section_title": "Sandwiches",
-		    "subtitle": "Served w/house potato chips and a pickle.  Substitute hand cut fries or house salad for $2, truffle fries for $2.50. Add a side salad or a cup of chowder to any Sandwich for $3.",
+		    "subtitle": "Served w/house potato chips and a pickle.  Substitute hand cut fries or house salad for $2, truffle fries for $2.50. Add a side salad or a cup of chowder to any Sandwich for $3. Subsitute gluten free roll for $2",
 		    "menu_items": {
 		      "Chicken Sandwich": ["na", "grilled chicken w/ cheddar, bacon, lettuce, tomato & onion, garlic aioli. Served on a brioche roll", "$12"],
 		      "Lulu's Big Dog": ["na", "quarter pound hot dog on grilled brioche bun with sautéed peppers & onions, stone ground mustard", "$10", "na", "add bacon", "$2", "na", "add cheese", "$1"],
@@ -68,6 +69,7 @@
     "subtitle": "",
     "menu_items": {
       "Grilled Chicken and vegetable of the day": ["gf", "", "$6"],
+      "Kids Mac and Cheese": ["na", "", "$6"],
       "Kids Hamburger & fries": ["na", "", "$6"]
     }
   },
