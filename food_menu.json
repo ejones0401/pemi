@@ -37,7 +37,8 @@
 			      "Chicken Sandwich": ["na", "grilled chicken w/ cheddar, bacon, lettuce, tomato & onion, garlic aioli. Served on a brioche roll", "$12"],
 			      "Lulu's Big Dog": ["na", "quarter pound hot dog on grilled brioche bun with sautéed peppers & onions, stone ground mustard", "$10", "na", "add bacon", "$2", "na", "add cheese", "$1"],
 			      "Pemi Sliders*": ["na", "2 angus beef patties topped with cheddar, bacon, garlic aioli, lettuce & tomato, on grilled brioche.  Served w/hand cut fries", "$14"],
-			      "Quinoa 'Burger'": ["na", "red quinoa, lentil and roasted garlic “burger” w/marinated tomato, pickled red onion, arugula, herbed goat cheese, garlic aioli on brioche roll", "$"Lobster Roll": ["na", "garlic aioli on grilled brioche roll (Friday through Sunday Only - While they last!)", 
+			      "Quinoa 'Burger'": ["na", "red quinoa, lentil and roasted garlic “burger” w/marinated tomato, pickled red onion, arugula, herbed goat cheese, garlic aioli on brioche roll", "$12"],
+                              "Lobster Roll": ["na", "garlic aioli on grilled brioche roll (Friday through Sunday Only - While they last!)", "MP"], 
                               "Impossible Burger": ["na", "plant protein based burger served on grilled brioche with lettuce, onion, and tomato", "$15", "na", "add bacon", "$2", "na", "add cheese", "$1"]
 			    }
 			  },
