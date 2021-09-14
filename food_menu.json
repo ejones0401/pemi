@@ -16,7 +16,7 @@
 			  {"section_title": "Soups & Salads",
 			    "subtitle": "",
 			    "menu_items": {
-			      "Bowl of Chili": ["na", "", "$8"],
+			      "Bowl of Chili": ["na", "served with cheddar and green onion", "$8"],
 			      "Roasted Tomato & Burrata Caprese": ["na", "slow roasted cherry tomatoes, creamy burrata, garlic infused olive oil, balsamic reduction, fresh basil, toasted brioche", "$13"],
 			      "Roasted Mushroom and Goat Cheese Salad": ["gf", "arugula tossed in balsamic vinaigrette, roasted mushrooms, pickled red onions, cherry tomatoes, herbed goat cheese","$13"],
 			      "Caesar Salad": ["na", "romaine, creamy caesar dressing, herb croutons", "$9"],
