@@ -8,7 +8,7 @@
 			      "Fried Pickles": ["na", "sour and crispy, served with buttermilk ranch", "$11"],
 			      "Rings of Fire": ["na", "dry rub seasonsed onion rings, served with spicy maple dipping sauce", "$8"],
 			      "Irish Nachos": ["gs", "house fried potato chips, cheddar, bacon, fresh scallions, jalapenos and sour cream", "$10", "na", "add adobo chicken", "$2"],
-			      "Chips & Gauc": ["gf", "", "$8"],
+			      "Chips & House Made Gaucamole": ["gf", "served with tortilla chips", "$8"],
 			      "GoGo Bites": ["na", "deep fried bites filled with jalapenos, roasted corn, bacon & cream cheese, deep fried and served with BBQ drizzle", "$10"],
 			      "Pemi Dip": ["na", "creamy bacon dip w/ a 3 cheese blend, whole grain mustard, caramelized onion and scallions served w/warm soft pretzel bites", "$12"]
 			    }
@@ -16,7 +16,7 @@
 			  {"section_title": "Soups & Salads",
 			    "subtitle": "",
 			    "menu_items": {
-			      "Chili": ["na", "", "$8"],
+			      "Bowl of Chili": ["na", "", "$8"],
 			      "Roasted Tomato & Burrata Caprese": ["na", "slow roasted cherry tomatoes, creamy burrata, garlic infused olive oil, balsamic reduction, fresh basil, toasted brioche", "$13"],
 			      "Roasted Mushroom and Goat Cheese Salad": ["gf", "arugula tossed in balsamic vinaigrette, roasted mushrooms, pickled red onions, cherry tomatoes, herbed goat cheese","$13"],
 			      "Caesar Salad": ["na", "romaine, creamy caesar dressing, herb croutons", "$9"],
