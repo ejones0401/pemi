@@ -32,7 +32,7 @@
 			    "menu_items": {
 			      "Chicken Sandwich": ["na", "grilled chicken w/ cheddar, bacon, lettuce, tomato & onion, garlic aioli. Served on a brioche roll", "$12"],
 			      "Lulu's Big Dog": ["na", "quarter pound hot dog on grilled brioche bun with sautéed peppers & onions, stone ground mustard", "$10", "na", "add bacon", "$2", "na", "add cheese", "$1", "na", "add chili", "$2"],
-			      "Haddock Sandwich": ["na", "beer battered and fried fresh haddock, lettuce, tomato & onion, garlic aioli.  Served on a brioche roll.", "$14"],
+			      "Haddock Sandwich": ["na", "beer battered and fried fresh haddock, lettuce, tomato & tarter sauce.  Served on a brioche roll.", "$14"],
 			      "Impossible Burger": ["na", "plant protein based burger served on grilled brioche with lettuce, onion, and tomato", "$15", "na", "add bacon", "$2", "na", "add cheese", "$1"]
 			    }
 			  },
