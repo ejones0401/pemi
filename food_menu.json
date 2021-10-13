@@ -16,8 +16,9 @@
 			  {"section_title": "Soups & Salads",
 			    "subtitle": "",
 			    "menu_items": {
-			      "Bowl of Corn Chowder": ["na", "", "$8"],
+			      "Bowl of Chili": ["na", "served with cheddar and green onion", "$8"],
 			      "Roasted Tomato & Burrata Caprese": ["na", "slow roasted cherry tomatoes, creamy burrata, garlic infused olive oil, balsamic reduction, fresh basil, toasted brioche", "$13"],
+			      "Roasted Mushroom & Goat Cheese Salad": ["gf", "arugula tossed in balsamic vinaigrette, roasted mushrooms, pickled red onions, cherry tomatoes, herbed goat cheese", "$13"],
 			      "Caesar Salad": ["na", "romaine, creamy caesar dressing, herb croutons", "$9"],
 			      "Add Protein to Any Salad": ["gf", "grilled or buffalo chicken", "$3", "na", "chicken tenders", "$4", "gf", "shrimp", "$7", "gf", "impossible burger", "$8"]
 			     }
@@ -25,18 +26,22 @@
 			  {"section_title": "Flatbreads",
 			    "subtitle": "",
 			    "menu_items": {
+			      "Public House": ["na", "mozzarella, pesto, feta, sliced tomatoes, roasted garlic, salami", "$14"],
 			      "Roasted Mushroom & Goat Cheese Flatbread": ["na", "roasted garlic puree, cremini mushrooms, herbed goat cheese topped with balsamic arugula salad", "$14"],
 			      "Meat Flatbread": ["na", "red sauce, mozzarella, pepperoni, salami, bacon", "$13"],
 			      "BLT Flatbread": ["na", "pemi dip base, bacon, tomatoes, romaine lettuce, spicy mayo drizzle", "$14"],
+			      "BBQ Chicken Flatbread": ["na", "ranch, shredded chicken, mozzarella, cheddar, bacon, bbq, onions", "$14"],
 			      "Cheese Flatbread": ["na", "add pepperoni for $0.75", "$12"]
 			    }
 			  },
 			  {"section_title": "Sandwiches",
-			    "subtitle": "Served w/house potato chips and a pickle.  Substitute hand cut fries or side caesar salad for $2, truffle fries for $2.50. Add a side caesar salad or a cup of chowder to any Sandwich for $3. Substitute a gluten free roll to any sandwich for $2",
+			    "subtitle": "Served w/house potato chips and a pickle.  Substitute hand cut fries or side caesar salad for $2, truffle fries for $2.50. Add a side caesar salad or a cup of chili to any sandwich for $3. Substitute a gluten free roll to any sandwich for $2",
 			    "menu_items": {
 			      "Chicken Sandwich": ["na", "grilled chicken w/ cheddar, bacon, lettuce, tomato & onion, garlic aioli. Served on a brioche roll", "$12"],
 			      "Lulu's Big Dog": ["na", "quarter pound hot dog on grilled brioche bun with sautéed peppers & onions, stone ground mustard", "$10", "na", "add bacon", "$2", "na", "add cheese", "$1", "na", "add chili", "$2"],
-			      "Haddock Sandwich": ["na", "beer battered and fried fresh haddock, lettuce, tomato & tarter sauce.  Served on a brioche roll.", "$14"],
+			      "Pemi Sliders*": ["na", "2 angus beef patties topped with cheddar, bacon, garlic aioli, lettuce & tomato, on grilled brioche.  Served w/hand cut fries", "$14"],
+			      "Steak Bomb": ["na", "lean grilled shaved steak, peppers, onions, mushrooms, pepperoni & cheddar with garlic aioli on toasted french roll", "$13"],
+			      "Banh Mi": ["na", "slow roasted pork, pickled carrots, thin sliced cucumbers, jalapenos & fresh cilantro w/ spicy mayo, served on toasted french roll", "$14"],
 			      "Impossible Burger": ["na", "plant protein based burger served on grilled brioche with lettuce, onion, and tomato", "$15", "na", "add bacon", "$2", "na", "add cheese", "$1"]
 			    }
 			  },
