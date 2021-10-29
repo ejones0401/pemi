@@ -75,14 +75,14 @@
 	  {"section_title": "Specialty Cocktails",
 	    "subtitle": "",
 	    "menu_items": {
-	      "Rose Spritzer": ["na", "josh rose, saint elder, soda, fresh mint", ""],
-	      "Sinner": ["na", "pbr hard coffee, peanut butter whiskey, on the rocks topped with reese's puffs", ""],
-	      "Dirty Unicorn": ["na", "cucumber mint vodka, lemonade, tonic, empress indigo gin", ""],
-	      "Pemi Rum Punch": ["na", "rum trio, banana, grenadine, juice", ""],
-	      "Skinny Margarita": ["na", "hornitos silver, fresh lime, cointreau (try it with blackberry!)", ""],
-	      "Shark Week": ["na", "island pucker, pineapple juice, truly wild berry draft", ""],
-	      "Strawberry Patch Mule": ["na", "strawberry vodka, ginger beer, soda, fresh lime, touch of grenadine", ""],
-	      "East Branch Bourbon Tea": ["na", "bourbon, peach tree, lemonade, iced tea, fresh mint", ""],
+	      "LA Bourbon Sour": ["na", "bulleit bourbon, fresh lemon, local maple syrup, luxardo cherry", "$12"],
+	      "Sinner": ["na", "skrewball peanut butter whiskey, pbr hard coffee, reeses puffs, on the rocks", "$10"],
+	      "Berry Patch Mule": ["na", "strawberry or blueberry vodka, ginger beer, soda, fresh lime, touch of grenadine", "$10"],    
+	      "Dirty Unicorn": ["na", "cucumber mint vodka, lemonade, tonic, empress indigo gin", "$10"],
+	      "Pemi Rum Punch": ["na", "rum trio, grenadine, juice", "$10"],
+	      "Banana Pancakes": ["na", "banana whiskey, rumchata, cold brew, nutmeg, cinnamon sugar rim", "$12"],
+	      "Skinny Margarita": ["na", "hornitos silver, fresh lime, cointreau (try it with blackberry!)", "$12"],
+	      "Coconut Paloma": ["na", "1800 cocounut tequila, aperol, grapefruit, fresh lime, soda", "$12"],
 	      "Daily Sangria": ["na", "", ""]
 	    }
 	  },
