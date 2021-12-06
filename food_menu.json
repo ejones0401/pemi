@@ -3,11 +3,12 @@
 			    "subtitle": "",
 			    "menu_items": {
 			      "Wings": ["na", "A full pound of hand breaded chicken wings served with korean bbq, buffalo, smoky sweet dry rub, bbq or spicy honey garlic sauce", "$14"],
-			      "Chicken Tenders": ["na","crispy breaded chicken served buffalo style, smoky sweet dry rub, bbq, korean bbq, spicy honey garlic", "$12"],
+			      "Chicken Tenders": ["na","crispy breaded chicken served buffalo style, smoky sweet dry rub, bbq, korean bbq, spicy honey garlic", "$13"],
 			      "Black Bean Quesadilla": ["na", "fresh veggies, cilantro cheddar jack cheese, toasted cumin and black beans served w/ sour cream & pico de gallo", "$10", "na", "add adobo chicken", "$2"],
 			      "Fried Pickles": ["na", "sour and crispy, served with buttermilk ranch", "$11"],
-			      "Rings of Fire": ["na", "dry rub seasonsed onion rings, served with spicy maple dipping sauce", "$8"],
+			      "Poutine": ["gs", "fresh cheese curd, crispy bacon, maple demi glace over hand cut fries", "$12"],
                               "Irish Nachos": ["gs", "house fried potato chips, cheddar, bacon, fresh scallions, jalapenos and sour cream", "$10", "na", "add adobo chicken", "$2"],
+			      "Chips & Queso": ["gs", "cojita, cheddar and jack cheeses, green chilis, served with house made potato chips and chipotle pico de gallo", "$8"],
 			      "GoGo Bites": ["na", "deep fried bites filled with jalapenos, roasted corn, bacon & cream cheese, deep fried and served with BBQ drizzle", "$10"],
 			      "Pemi Dip": ["na", "creamy bacon dip w/ a 3 cheese blend, whole grain mustard, caramelized onion and scallions served w/warm soft pretzel bites", "$12"]
 			    }
@@ -15,9 +16,10 @@
 			  {"section_title": "Soups & Salads",
 			    "subtitle": "",
 			    "menu_items": {
+			      "Soup of the Day": ["na", "", "Priced Daily"],
 			      "Bowl of Chili": ["na", "served with cheddar and green onion", "$8"],
-			      "Roasted Tomato & Burrata Caprese": ["na", "slow roasted cherry tomatoes, creamy burrata, garlic infused olive oil, balsamic reduction, fresh basil, toasted brioche", "$13"],
-			      "Roasted Mushroom and Goat Cheese Salad": ["gf", "arugula tossed in balsamic vinaigrette, roasted mushrooms, pickled red onions, cherry tomatoes, herbed goat cheese","$13"],
+			      "Roasted Tomato Caprese": ["na", "slow roasted roma tomatoes, basil pesto, bocconcini mozzarella, balsamic reduction, micro herbs, crostini", "$13"],
+			      "Roasted Mushroom Salad": ["gf", "rosemary roasted mushrooms, arugula tossed in zinfandel vinaigrette, pickled red onions, cherry tomatoes, chive goat cheese","$13"],
 			      "Caesar Salad": ["na", "romaine, creamy caesar dressing, herb croutons", "$9"],
 			      "Add Protein to Any Salad": ["gf", "grilled or buffalo chicken", "$3", "na", "chicken tenders", "$4", "gf", "shrimp", "$7", "gf", "impossible burger", "$8"]
 			     }
@@ -26,7 +28,7 @@
 			    "subtitle": "",
 			    "menu_items": {
 			      "Public House": ["na", "mozzarella, pesto, feta, sliced tomatoes, roasted garlic, salami", "$14"],
-			      "Roasted Mushroom & Goat Cheese Flatbread": ["na", "roasted garlic puree, cremini mushrooms, herbed goat cheese topped with balsamic arugula salad", "$14"],
+			      "Roasted Mushroom & Goat Cheese Flatbread": ["na", "roasted garlic puree, rosemary roasted mushrooms, tomato jam, chive goat cheese, zinfandel vinaigrette arugula salad", "$14"],
 			      "Meat Flatbread": ["na", "red sauce, mozzarella, pepperoni, salami, bacon", "$13"],
 			      "BLT Flatbread": ["na", "pemi dip base, bacon, tomatoes, romaine lettuce, spicy mayo drizzle", "$14"],
 			      "BBQ Chicken Flatbread": ["na", "ranch, shredded chicken, mozzarella, cheddar, bacon, bbq, onions", "$14"],
@@ -34,24 +36,27 @@
 			    }
 			  },
 			  {"section_title": "Sandwiches",
-			    "subtitle": "Served w/house potato chips and a pickle.  Substitute hand cut fries or side caesar salad for $2, truffle fries for $2.50. Add a side caesar salad or a cup of chili to any Sandwich for $3. Substitute a gluten free roll to any sandwich for $2",
+			    "subtitle": "Served w/house potato chips and a pickle.  Substitute hand cut fries or side caesar salad for $2, truffle fries for $2.50. Add a side caesar salad or a cup of chili or cup of soup to any Sandwich for $3. Substitute a gluten free roll to any sandwich for $2",
 			    "menu_items": {
 			      "Chicken Sandwich": ["na", "grilled chicken w/ cheddar, bacon, lettuce, tomato & onion, garlic aioli. Served on a brioche roll", "$12"],
 			      "Lulu's Big Dog": ["na", "quarter pound hot dog on grilled brioche bun with sautéed peppers & onions, stone ground mustard", "$10", "na", "add bacon", "$2", "na", "add cheese", "$1", "na", "add chili", "$2"],
 			      "Pemi Sliders*": ["na", "2 angus beef patties topped with cheddar, bacon, garlic aioli, lettuce & tomato, on grilled brioche.  Served w/hand cut fries", "$14"],
 			      "Banh Mi": ["na", "slow roasted pork, pickled carrots, thin sliced cucumbers, jalapenos & fresh cilantro w/ spicy mayo, served on toasted french roll", "$14"],
-			      "Steak Bomb": ["na", "lean grilled shaved steak, peppers, onions, mushrooms, pepperoni & cheddar with garlic aioli on toasted french roll", "$13"],
+			      "Public House Cheese Steak": ["na", "smoked sirloin, grilled onions and warm chili queso served on toasted brioche", "$13"],
 			      "Impossible Burger": ["na", "plant protein based burger served on grilled brioche with lettuce, onion, and tomato", "$15", "na", "add bacon", "$2", "na", "add cheese", "$1"]
 			    }
 			  },
 			  {"section_title": "Public House Meals",
-			    "subtitle": "Add a side caesar salad or a cup of chili to any meal for $3",
+			    "subtitle": "Add a side caesar salad or a cup of chili or cup of soup to any meal for $3",
 			    "menu_items": {
-			      "Caprese Chicken": ["gf", "grilled chicken topped with burrata, roasted cherry tomatoes, fresh basil, garlic infused olive oil, balsamic reduction.  Served w/veg of the day & roasted fingerling potatoes.", "$15"],
+			      "Caprese Chicken": ["gf", "marinated grilled chicken, roasted tomatoes, bocconcini mozzarella, micro basil & balsamic reduction. Served w/roasted fingerling potatoes & veg of the day", "$16"],
 			      "Baked Mac & Cheese": ["na", "cavatappi pasta in three cheese sauce topped with buttered ritz crumbs.", "$13", "na", "add bacon, chili or chicken", "$3"],
+			      "Braised Short Rib": ["na", "chef's rotating special.  Ask your server for today's preparation!", "$24"],
+		              "Tom's Chicken Pot Pie": ["na", "all white meat, carrots, onion, peas, potatoes, topped with golden puff pastry", "$16"],
+			      "Shepard's Pie": ["na", "the Pemi’s twist on a classic - seasoned ground beef in a merlot gravy with carrots, peas and onions topped and baked with roasted garlic mashed potatoes", "$16"],    
 			      "Beer Battered Fish & Chips": ["na", "Tuckermans beer battered haddock, hand cut fries, tartar (Friday through Sunday while they last!)", "$16"],
 			      "Grilled Shrimp Puttanesca Style": ["gf", "large grilled shrimp topped with roasted tomatoes, capers, and olives.  Served with vegetable of the day and roasted fingerling potatoes.", "$17"],
-			      "Naan Tacos": ["na", "adobo pulled chicken, cotija cheese, roasted corn, pico de gallo, cilantro lime sour cream on mini naan", "$14", "na", "Try it veg style! (sub black beans for chicken)", ""]
+			      "Naan Tacos": ["na", "adobo pulled chicken, cotija cheese, corn salsa, micro cilantro, lime sour cream on mini naan", "$14", "na", "Try it veg style! (sub black beans for chicken)", ""]
 			    }
 			  },
 	  {"section_title": "Sides",
