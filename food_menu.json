@@ -18,12 +18,6 @@
 			      "Add Protein to Any Salad": ["gf", "grilled or buffalo chicken", "$5", "na", "chicken tenders", "$4", "gf", "shrimp", "$7", "gf", "impossible burger", "$8"]
 			     }
 			  },
-			  {"section_title": "Flatbreads",
-			    "subtitle": "",
-			    "menu_items": {
-			      "Cheese Flatbread": ["na", "add pepperoni for $0.75", "$12"]
-			    }
-			  },
 			  {"section_title": "Sandwiches",
 			    "subtitle": "Served w/house potato chips and a pickle.  Substitute hand cut fries or side caesar salad for $2, truffle fries for $2.50. Add a side caesar salad or a cup of chili or cup of chowder to any Sandwich for $3. Substitute a gluten free roll to any sandwich for $2",
 			    "menu_items": {
