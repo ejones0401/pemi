@@ -16,7 +16,7 @@
 			    "menu_items": {
 			      "Soup of the Day": ["na", "", "Priced Daily"],
 			      "Bowl of Chili": ["na", "served with cheddar and green onion", "$8"],
-			      "Charred Tomato Caprese": ["na", "buffalo mozzarella, charred marinated tomatoes, lemon basil arugula, toasted brioche", "$15"],
+			      "Charred Tomato Caprese": ["na", "fresh mozzarella, charred marinated tomatoes, lemon basil arugula, toasted brioche", "$15"],
 			      "Roasted Mushroom Salad": ["gf", "roasted button mushrooms, pickled shallots, goat cheese, arugula tossed in zinfandel vinaigrette","$13"],
 			      "Caesar Wedge": ["na", "romaine heart, tuscan caesar dressing, aged parmesan, herb croutons", "$11"],
 			      "Add Protein to Any Salad": ["gf", "grilled or buffalo chicken", "$5", "na", "chicken tenders", "$4", "gf", "shrimp", "$7", "gf", "impossible burger", "$8"]
@@ -45,7 +45,7 @@
 			  {"section_title": "Public House Meals",
 			    "subtitle": "Add a side caesar salad or a cup of chili or cup of soup to any meal for $4",
 			    "menu_items": {
-			      "Caprese Chicken": ["gf", "marinated grilled chicken, marinated charred tomatoes, buffalo mozzarella, micro basil & balsamic reduction. Served w/lemon herb orzo & veg of the day", "$17"],
+			      "Caprese Chicken": ["gf", "marinated grilled chicken, marinated charred tomatoes, fresh mozzarella, fresh herbs & balsamic reduction. Served w/lemon herb orzo salad & veg of the day", "$17"],
 			      "Baked Mac & Cheese": ["na", "cavatappi pasta in three cheese sauce topped with buttered ritz crumbs.", "$14", "na", "add bacon, chili or chicken", "$4"],
 		              "Tom's Chicken Pot Pie": ["na", "all white meat, carrots, onion, peas, potatoes, topped with golden puff pastry", "$16"],
 			      "Shepard's Pie": ["na", "the Pemi’s twist on a classic - seasoned ground beef in a merlot gravy with carrots, peas and onions topped and baked with roasted garlic mashed potatoes", "$17"],    
