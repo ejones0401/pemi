@@ -16,19 +16,17 @@
 			    "menu_items": {
 			      "Soup of the Day": ["na", "", "Priced Daily"],
 			      "Bowl of Chili": ["na", "served with cheddar and green onion", "$8"],
-			      "Roasted Tomato Caprese": ["na", "slow roasted roma tomatoes, basil pesto, bocconcini mozzarella, balsamic reduction, micro herbs, crostini", "$13"],
-			      "Roasted Mushroom Salad": ["gf", "rosemary roasted mushrooms, arugula tossed in zinfandel vinaigrette, pickled red onions, cherry tomatoes, chive goat cheese","$13"],
-			      "Caesar Salad": ["na", "romaine, creamy caesar dressing, herb croutons", "$9"],
-			      "Add Protein to Any Salad": ["gf", "grilled or buffalo chicken", "$3", "na", "chicken tenders", "$4", "gf", "shrimp", "$7", "gf", "impossible burger", "$8"]
+			      "Charred Tomato Caprese": ["na", "buffalo mozzarella, charred marinated tomatoes, lemon basil arugula, toasted brioche", "$15"],
+			      "Roasted Mushroom Salad": ["gf", "roasted button mushrooms, pickled shallots, goat cheese, arugula tossed in zinfandel vinaigrette","$13"],
+			      "Caesar Wedge": ["na", "romaine heart, tuscan caesar dressing, aged parmesan, herb croutons", "$11"],
+			      "Add Protein to Any Salad": ["gf", "grilled or buffalo chicken", "$5", "na", "chicken tenders", "$4", "gf", "shrimp", "$7", "gf", "impossible burger", "$8"]
 			     }
 			  },
 			  {"section_title": "Flatbreads",
 			    "subtitle": "",
 			    "menu_items": {
 			      "Public House": ["na", "mozzarella, pesto, feta, sliced tomatoes, roasted garlic, salami", "$14"],
-			      "Roasted Mushroom & Goat Cheese Flatbread": ["na", "roasted garlic puree, rosemary roasted mushrooms, tomato jam, chive goat cheese, zinfandel vinaigrette arugula salad", "$14"],
-			      "Meat Flatbread": ["na", "red sauce, mozzarella, pepperoni, salami, bacon", "$13"],
-			      "BLT Flatbread": ["na", "pemi dip base, bacon, tomatoes, romaine lettuce, spicy mayo drizzle", "$14"],
+		              "BLT Flatbread": ["na", "pemi dip base, bacon, tomatoes, romaine lettuce, spicy mayo drizzle", "$14"],
 			      "BBQ Chicken Flatbread": ["na", "ranch, shredded chicken, mozzarella, cheddar, bacon, bbq, onions", "$14"],
 			      "Cheese Flatbread": ["na", "add pepperoni for $0.75", "$12"]
 			    }
@@ -36,24 +34,23 @@
 			  {"section_title": "Sandwiches",
 			    "subtitle": "Served w/house potato chips and a pickle.  Substitute hand cut fries or side caesar salad for $2, truffle fries for $2.50. Add a side caesar salad or a cup of chili or cup of soup to any Sandwich for $3. Substitute a gluten free roll to any sandwich for $2",
 			    "menu_items": {
-			      "Chicken Sandwich": ["na", "grilled chicken w/ cheddar, bacon, lettuce, tomato & onion, garlic aioli. Served on a brioche roll", "$12"],
+			      "Chicken Sandwich": ["na", "grilled chicken w/ cheddar, bacon, lettuce, tomato & onion, garlic aioli. Served on a brioche roll", "$13"],
 			      "Lulu's Big Dog": ["na", "quarter pound hot dog on grilled brioche bun with sautéed peppers & onions, stone ground mustard", "$10", "na", "add bacon", "$2", "na", "add cheese", "$1", "na", "add chili", "$2"],
-			      "Pemi Sliders*": ["na", "2 angus beef patties topped with cheddar, bacon, garlic aioli, lettuce & tomato, on grilled brioche.  Served w/hand cut fries", "$14"],
+			      "Pemi Sliders*": ["na", "2 angus beef patties topped with cheddar, bacon, garlic aioli, lettuce & tomato, on grilled brioche.  Served w/hand cut fries", "$15"],
 			      "Banh Mi": ["na", "slow roasted pork, pickled carrots, thin sliced cucumbers, jalapenos & fresh cilantro w/ spicy mayo, served on toasted french roll", "$14"],
-			      "Steak Bomb": ["na", "lean grilled shaved steak, peppers, onions, mushrooms, pepperoni & cheddar with garlic aioli on toasted french roll", "$13"],
+			      "Steak Bomb": ["na", "lean grilled shaved steak, peppers, onions, mushrooms, pepperoni & cheddar with garlic aioli on toasted french roll", "$15"],
 			      "Impossible Burger": ["na", "plant protein based burger served on grilled brioche with lettuce, onion, and tomato", "$15", "na", "add bacon", "$2", "na", "add cheese", "$1"]
 			    }
 			  },
 			  {"section_title": "Public House Meals",
 			    "subtitle": "Add a side caesar salad or a cup of chili or cup of soup to any meal for $3",
 			    "menu_items": {
-			      "Caprese Chicken": ["gf", "marinated grilled chicken, roasted tomatoes, bocconcini mozzarella, micro basil & balsamic reduction. Served w/roasted fingerling potatoes & veg of the day", "$16"],
-			      "Baked Mac & Cheese": ["na", "cavatappi pasta in three cheese sauce topped with buttered ritz crumbs.", "$13", "na", "add bacon, chili or chicken", "$3"],
-			      "Braised Short Rib": ["na", "chef's rotating special.  Ask your server for today's preparation!", "$26"],
+			      "Caprese Chicken": ["gf", "marinated grilled chicken, marinated charred tomatoes, buffalo mozzarella, micro basil & balsamic reduction. Served w/lemon herb orzo & veg of the day", "$17"],
+			      "Baked Mac & Cheese": ["na", "cavatappi pasta in three cheese sauce topped with buttered ritz crumbs.", "$14", "na", "add bacon, chili or chicken", "$3"],
 		              "Tom's Chicken Pot Pie": ["na", "all white meat, carrots, onion, peas, potatoes, topped with golden puff pastry", "$16"],
-			      "Shepard's Pie": ["na", "the Pemi’s twist on a classic - seasoned ground beef in a merlot gravy with carrots, peas and onions topped and baked with roasted garlic mashed potatoes", "$16"],    
-			      "Beer Battered Fish & Chips": ["na", "Tuckermans beer battered haddock, hand cut fries, tartar (Friday through Sunday while they last!)", "$16"],
-			      "Naan Tacos": ["na", "adobo pulled chicken, cotija cheese, corn salsa, micro cilantro, lime sour cream on mini naan", "$14", "na", "Try it veg style! (sub black beans for chicken)", ""]
+			      "Shepard's Pie": ["na", "the Pemi’s twist on a classic - seasoned ground beef in a merlot gravy with carrots, peas and onions topped and baked with roasted garlic mashed potatoes", "$17"],    
+			      "Beer Battered Fish & Chips": ["na", "Tuckermans beer battered haddock, hand cut fries, tartar (Friday through Sunday while they last!)", "$18"],
+			      "Naan Tacos": ["na", "adobo pulled chicken, cotija cheese, grilled peppers & onions, corn salsa, micro cilantro, lime sour cream on mini naan", "$15", "na", "Try it veg style! (sub black beans for chicken)", ""]
 			    }
 			  },
 	  {"section_title": "Sides",
