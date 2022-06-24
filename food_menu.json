@@ -69,29 +69,5 @@
 	      "Kids Kraft Mac and Cheese": ["na", "", "$7"],
 	      "Kids Hamburger & fries": ["na", "", "$6"]
 	    }
-	  },
-	  {"section_title": "Specialty Cocktails",
-	    "subtitle": "",
-	    "menu_items": {
-	      "Berry Patch Mule": ["na", "strawberry or blueberry vodka, ginger beer, soda, fresh lime, touch of grenadine", "$10"],    
-	      "Dirty Unicorn": ["na", "cucumber mint vodka, lemonade, tonic, empress indigo gin", "$10"],
-	      "Pemi Rum Punch": ["na", "rum trio, grenadine, juice", "$10"],
-	      "Skinny Margarita": ["na", "hornitos silver, fresh lime, cointreau (try it with blackberry!)", "$12"]
-	    }
-	  },
-	  {"section_title": "Red Wines",
-	    "subtitle": "",
-	    "menu_items": {
-	      "Woodbridge Merlot": ["na", "", "$6.50"],
-	      "Josh Cellars Cabernet Sauvignon": ["na", "", "$9"]
-	    }
-	  },
-	  {"section_title": "White Wines",
-	    "subtitle": "",
-	    "menu_items": {
-	      "Toasted Head Chardonnay": ["na", "", "$8"],
-	      "Woodbridge Pinot Grigio": ["na", "", "$6.50"],
-	      "Oyster Sauvignon Blanc": ["na", "", "$7.50"]
-	    }
 	  }
 	]
