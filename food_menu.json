@@ -18,7 +18,6 @@
 			      "Bowl of Chili": ["na", "served with cheddar and green onion", "$9"],
 			      "Whipped Ricotta Caprese": ["gf", "whipped lemon ricotta, roasted tomatoes, olive oil and balsamic, mixed micro herbs", "$16"],
 			      "Roasted Apple Salad": ["gf", "arugula, roasted apples, papitas, pickled red onion, feta, maple dijon vinaigrette","$14"],
-			      "Caesar Salad": ["na", "romaine, creamy caesar, herb croutons", "$12"],
 			      "Add Protein to Any Salad": ["gf", "grilled or buffalo chicken", "$5", "na", "chicken tenders", "$4", "gf", "shrimp", "$7", "gf", "impossible burger", "$8", "na", "quinoa burger", "$6"]
 			     }
 			  },
@@ -32,7 +31,7 @@
 			    }
 			  },
 			  {"section_title": "Sandwiches",
-			    "subtitle": "Served with hand cut fries and pickle.  Substitute side caesar salad for $2, truffle fries for $2. Add a side caesar salad, cup of soup or cup of chili to any Sandwich for $4. Substitute a gluten free roll to any sandwich for $2",
+			    "subtitle": "Served with hand cut fries and pickle.  Substitute truffle fries for $2. Add a cup of soup or cup of chili to any Sandwich for $4. Substitute a gluten free roll to any sandwich for $2",
 			    "menu_items": {
 			      "Chicken Sandwich": ["na", "grilled chicken w/ cheddar, bacon, lettuce, tomato & onion, garlic aioli. Served on a brioche roll", "$16"],
 			      "Lulu's Big Dog": ["na", "quarter pound hot dog on grilled brioche bun with sautéed peppers & onions, stone ground mustard", "$12", "na", "add bacon", "$2", "na", "add cheese", "$1", "na", "add chili", "$4"],
@@ -43,23 +42,22 @@
 			    }
 			  },
 			  {"section_title": "Public House Meals",
-			    "subtitle": "Add a side caesar salad, cup or soup or cup of chili to any meal for $4",
+			    "subtitle": "Add cup or soup or cup of chili to any meal for $4",
 			    "menu_items": {
-			      "Chicken Caprese": ["gf", "marinated grilled chicken, roasted tomatoes, whipped ricotta, fresh mozzarella, balsamic reduction served w/baby potatoes and veg of the day", "$20"],
+			      "Chicken Caprese": ["gf", "marinated grilled chicken, roasted tomatoes, whipped ricotta, fresh mozzarella, balsamic reduction served w/veg of the day", "$20"],
 			      "Baked Mac & Cheese": ["na", "cavatappi pasta in three cheese sauce topped with buttered ritz crumbs.", "$14", "na", "add bacon, chili or chicken", "$4"],
 			      "Shepard's Pie": ["na", "the Pemi’s twist on a classic - seasoned ground beef in a merlot gravy with carrots, peas and onions topped and baked with roasted garlic mashed potatoes", "$18"],
 			      "Tom's Chicken Pot Pie": ["na", "all white meat, carrots, onion, peas, potatoes, topped with golden puff pastry", "$17"],
 			      "Falafel Plate": ["na", "cucumber salad, herbed yogurt, warm naan", "$15"],
-			      "Street Corn Shrimp": ["gf", "marinated grilled shrimp served over a cheesy street corn topped with pico de gallo, pickled peppers, cotija cheese and fresh cilantro", "$20"],    
-			      "Naan Tacos": ["na", "adobo pulled chicken, cotija cheese, grilled peppers & onions, corn salsa, micro cilantro, lime sour cream on mini naan", "$15", "na", "Try it veg style! (sub black beans for chicken)", ""]
+			      "Street Corn Shrimp": ["gf", "marinated grilled shrimp served over a cheesy street corn topped with pico de gallo, pickled peppers, cotija cheese and fresh cilantro", "$20", "na", "Try it with grilled chicken instead of shrimp", ""],    
+			      "Naan Tacos": ["na", "adobo pulled chicken, cotija cheese, grilled peppers & onions, corn salsa, micro cilantro, lime sour cream on mini naan", "$15"]
 			    }
 			  },
 	  {"section_title": "Sides",
 	    "subtitle": "",
 	    "menu_items": {
 	      "Handcut Fries": ["gs", "", "$5"],
-	      "Truffle Parmesan Fries": ["gs", "", "$7"],
-	      "Side Caesar Salad": ["gf", "", "$6"]
+	      "Truffle Parmesan Fries": ["gs", "", "$7"]
 	    }
 	  },
 	  {"section_title": "Kids Menu (10 & Under)",
