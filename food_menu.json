@@ -2,60 +2,62 @@
 			  {"section_title": "Starters",
 			    "subtitle": "",
 			    "menu_items": {
-			      "Wings": ["na", "A full pound of hand breaded chicken wings served with korean bbq, buffalo, smoky sweet dry rub, bbq or spicy honey garlic sauce or try the Pemi Favorite - buffalo and dry rub together!", "$15"],
+			      "Wings": ["na", "A full pound of hand breaded chicken wings served with korean bbq, buffalo, smoky sweet dry rub, bbq or spicy honey garlic sauce or try the Pemi Favorite - buffalo and dry rub together!", "$16"],
 			      "Chicken Tenders": ["na","tempura chicken tenders with buffalo, smoky sweet dry rub, bbq, korean bbq, or spicy honey garlic", "$14"],
-			      "Falafel": ["na", "served with cucumber salad and herb yogurt", "$12"],
 			      "Fried Pickles": ["na", "sour and crispy, served with buttermilk ranch", "$12"],
 		 	      "Irish Nachos": ["gs", "house fried potato chips, cheddar, bacon, fresh scallions, jalapenos, sour cream", "12", "na", "add adobo pulled chicken", "$3"],
-                              "GoGo Bites": ["na", "deep fried bites filled with jalapenos, roasted corn, bacon & cream cheese, deep fried and served with BBQ drizzle", "$12"],
-			      "Pemi Dip": ["na", "creamy bacon dip w/ a 3 cheese blend, whole grain mustard, caramelized onion and scallions served w/warm soft pretzel bites", "$13"]
+                              "GoGo Bites": ["na", "deep fried bites filled with jalapenos, roasted corn, bacon & cream cheese, deep fried and served with BBQ drizzle", "$14"],
+			      "Pemi Dip": ["na", "creamy bacon dip w/ a 3 cheese blend, whole grain mustard, caramelized onion and scallions served w/warm soft pretzel bites", "$14"],
+			      "Sweet & Spicy Falafel": ["na", "falafel tossed in buffalo sauce with sweet & sour yogurt, tomato jam and pickled celery", "$14"]
 			    }
 			  },
 			  {"section_title": "Soups & Salads",
 			    "subtitle": "",
 			    "menu_items": {
-			      "Soup of the Day": ["na", "", "Priced Daily"],
-			      "Bowl of Chili": ["na", "served with cheddar and green onion", "$9"],
-			      "Whipped Ricotta Caprese": ["gf", "whipped lemon ricotta, roasted tomatoes, olive oil and balsamic, mixed micro herbs", "$16"],
-			      "Roasted Apple Salad": ["gf", "arugula, roasted apples, papitas, pickled red onion, feta, maple dijon vinaigrette","$14"],
-			      "Add Protein to Any Salad": ["gf", "grilled or buffalo chicken", "$5", "na", "chicken tenders", "$4", "gf", "shrimp", "$7", "gf", "impossible burger", "$8", "na", "quinoa burger", "$6"]
+			      "New England Clam Chowder": ["na", "homemade with celery, onions, potatoes, cream and LOTS of clams!", "$10"],
+			      "Summer Salad": ["gf", "baby arugula, strawberries & pickled red onion, tossed in a citrus vinaigrette w/ goat cheese & toasted almonds", "$15"],
+			      "Mediterranean Caprese": ["na", "white bean & cracked wheat salad tossed in blood orange vinegarette with charred tomatoes, marinated olives, feta & fresh mozzarella. Finished with balsamic reduction & micro herbs","$16"],
+			      "Asian Salad": ["na", "shredded lettuce, pea shoots & mixed vegetables tossed in a sesame soy vinaigrette. Topped with crispy wontons and toasted sesame seeds", "$15"],
+			      "Add Protein to Any Salad": ["gf", "grilled or buffalo chicken", "$6", "na", "chicken tenders", "$4", "gf", "shrimp", "$7", "gf", "impossible burger", "$8", "na", "quinoa burger", "$6"]
 			     }
 			  },
 			  {"section_title": "Flatbreads",
 			    "subtitle": "substitute a gluten free crust for $2",
 			    "menu_items": {
 			      "Public House": ["na", "mozzarella, pesto, feta, sliced tomatoes, roasted garlic", "$14"],
-			      "BLT Flatbread": ["na", "pemi dip base, bacon, tomatoes, romaine lettuce, spicy mayo drizzle", "$14"],
-			      "BBQ Chicken Flatbread": ["na", "ranch, shredded chicken, mozzarella, cheddar, bacon, bbq, onions", "$14"],
+			      "BLT Flatbread": ["na", "pemi dip base, bacon, tomatoes, mixed greens, cheddar, mozzarella, spicy mayo drizzle", "$14"],
+			      "White Flatbread": ["na", "EVOO, garlic, roasted tomatoes, arugula", "$14"],
+			      "BBQ Chicken": ["na", "ranch, shredded chicken, mozzarella, cheddar, bacon, bbq, onions", "$14"],
 		              "Cheese Flatbread": ["na", "add pepperoni for $0.75", "$12"]
 			    }
 			  },
 			  {"section_title": "Sandwiches",
-			    "subtitle": "Served with hand cut fries and pickle.  Substitute truffle fries for $2. Add a cup of soup or cup of chili to any Sandwich for $4. Substitute a gluten free roll to any sandwich for $2",
+			    "subtitle": "Served with hand cut fries and pickle.  Substitute truffle fries for $2. Add a cup of chowder to any Sandwich for $6. Substitute a gluten free roll to any sandwich for $2",
 			    "menu_items": {
 			      "Chicken Sandwich": ["na", "grilled chicken w/ cheddar, bacon, lettuce, tomato & onion, garlic aioli. Served on a brioche roll", "$16"],
-			      "Lulu's Big Dog": ["na", "quarter pound hot dog on grilled brioche bun with sautéed peppers & onions, stone ground mustard", "$12", "na", "add bacon", "$2", "na", "add cheese", "$1", "na", "add chili", "$4"],
-			      "Pemi Sliders*": ["na", "2 angus beef patties topped with cheddar, bacon, garlic aioli, lettuce & tomato, on grilled brioche.", "$15"],
+			      "Lulu's Big Dog": ["na", "¼ lb all beef hotdog with grilled peppers, pickled onion & whole grain mustard", "$14", "na", "add bacon", "$2", "na", "add cheese", "$2"],
+			      "Pemi Sliders*": ["na", "2 angus beef patties topped with cheddar, bacon, garlic aioli, lettuce & tomato, on grilled brioche.", "$16"],
 			      "Banh Mi": ["na", "smoked pork, carrot, pickled cucumbers, jalapenos & fresh cilantro with spicy mayo, served on toasted french roll", "$16"],
-			      "Quinoa Burger": ["na", "red quinoa, lentil and roasted garlic 'burger' with tomato jam, arugula, pickled red onion, feta and garlic aioli on brioche roll", "$15"],
-			      "Impossible Burger": ["na", "plant protein based burger served on grilled brioche with lettuce, onion, and tomato", "$16", "na", "add bacon", "$2", "na", "add cheese", "$1"]
+			      "Falafel Sandwich": ["na", "with herbed yogurt, cucumber salad, feta & pea shoots.  Served on a brioche roll", "$16"],
+			      "Quinoa Burger": ["na", "red quinoa, lentil & roasted garlic “burger” with pickled red onion, sharp cheddar, tomato jam, mixed greens & garlic aioli. Served on a brioche roll", "$15"],
+			      "Impossible Burger": ["na", "plant protein based burger served on grilled brioche with lettuce, onion, and tomato", "$16", "na", "add bacon", "$2", "na", "add cheese", "$2"]
 			    }
 			  },
 			  {"section_title": "Public House Meals",
-			    "subtitle": "Add cup or soup or cup of chili to any meal for $4",
+			    "subtitle": "Add cup oof chowder to any meal for $6",
 			    "menu_items": {
-			      "Chicken Caprese": ["gf", "marinated grilled chicken, roasted tomatoes, whipped ricotta, fresh mozzarella, balsamic reduction served w/veg of the day", "$20"],
-			      "Baked Mac & Cheese": ["na", "cavatappi pasta in three cheese sauce topped with buttered ritz crumbs.", "$14", "na", "add bacon, chili or chicken", "$4"],
-			      "Shepard's Pie": ["na", "the Pemi’s twist on a classic - seasoned ground beef in a merlot gravy with carrots, peas and onions topped and baked with roasted garlic mashed potatoes", "$18"],
-			      "Tom's Chicken Pot Pie": ["na", "all white meat, carrots, onion, peas, potatoes, topped with golden puff pastry", "$17"],
-			      "Falafel Plate": ["na", "cucumber salad, herbed yogurt, warm naan", "$15"],
-			      "Street Corn Shrimp": ["gf", "marinated grilled shrimp served over a cheesy street corn topped with pico de gallo, pickled peppers, cotija cheese and fresh cilantro", "$20", "na", "Try it with grilled chicken instead of shrimp", ""],    
-			      "Naan Tacos": ["na", "adobo pulled chicken, cotija cheese, grilled peppers & onions, corn salsa, micro cilantro, lime sour cream on mini naan", "$15"]
+			      "Steak & Cheese Eggrolls": ["na", "lean grilled beef with a 3 cheese blend & sweet onions fried to a golden brown. Served with a roasted pepper salad & spicy pub dipping sauce", "$16"],
+			      "Asian Chicken": ["na", "marinated sesame ginger chicken with stir fried mixed vegetables. Served over Thai fried rice with ginger jus & crispy wontons", "$21"],
+			      "Grilled Chicken": ["gf", "marinated grilled chicken & roasted asparagus. Served over sliced tomatoes", "$16"],
+			      "Street Corn Shrimp": ["gf", "marinated grilled shrimp served over a cheesy street corn topped with pico de gallo, grilled peppers, pickled red onions, smashed avocado, cotija cheese and fresh cilantro", "$22", "na", "Try it with grilled chicken instead of shrimp", ""],    
+			      "Naan Tacos": ["na", "adobo pulled chicken, cotija cheese, grilled peppers & onions, corn salsa, micro cilantro, lime sour cream on mini naan", "$17"]
 			    }
 			  },
 	  {"section_title": "Sides",
 	    "subtitle": "",
 	    "menu_items": {
+	      "Roasted Asparagu": ["gf", "", "$7"],
+	      "Cucumber Salad": ["gf", "", "$6"],
 	      "Handcut Fries": ["gs", "", "$5"],
 	      "Truffle Parmesan Fries": ["gs", "", "$7"]
 	    }
@@ -64,8 +66,8 @@
 	    "subtitle": "",
 	    "menu_items": {
 	      "Chicken Fingers & Fries": ["na", "", "$7"],
-	      "Kids Kraft Mac and Cheese": ["na", "", "$7"],
-	      "Kids Hamburger & fries": ["na", "", "$6"]
+	      "Kids Kraft Mac and Cheese": ["na", "", "$6"],
+	      "Kids Hamburger & fries": ["na", "", "$7"]
 	    }
 	  }
 	]
