@@ -16,7 +16,7 @@
 			    "menu_items": {
 			      "New England Clam Chowder": ["na", "homemade with celery, onions, potatoes, cream and LOTS of clams!", "$10"],
 			      "Summer Salad": ["gf", "baby arugula, strawberries & pickled red onion, tossed in a citrus vinaigrette w/ goat cheese & toasted almonds", "$15"],
-			      "Mediterranean Caprese": ["na", "white bean & cracked wheat salad tossed in blood orange vinegarette with charred tomatoes, marinated olives, feta & fresh mozzarella. Finished with balsamic reduction & micro herbs","$16"],
+			      "Mediterranean Caprese": ["na", "white bean & cracked wheat tossed in blood orange vinegarette with marinated tomatoes & olives, feta & fresh mozzarella","$16"],
 			      "Asian Salad": ["na", "shredded lettuce, pea shoots & mixed vegetables tossed in a sesame soy vinaigrette. Topped with crispy wontons and toasted sesame seeds", "$15"],
 			      "Add Protein to Any Salad": ["gf", "grilled or buffalo chicken", "$6", "na", "chicken tenders", "$4", "gf", "shrimp", "$7", "gf", "impossible burger", "$8", "na", "quinoa burger", "$6"]
 			     }
@@ -26,7 +26,7 @@
 			    "menu_items": {
 			      "Public House": ["na", "mozzarella, pesto, feta, sliced tomatoes, roasted garlic", "$14"],
 			      "BLT Flatbread": ["na", "pemi dip base, bacon, tomatoes, mixed greens, cheddar, mozzarella, spicy mayo drizzle", "$14"],
-			      "White Flatbread": ["na", "EVOO, garlic, roasted tomatoes, arugula", "$14"],
+			      "White Flatbread": ["na", "EVOO, roasted garlic, tomatoes, arugula", "$14"],
 			      "BBQ Chicken": ["na", "ranch, shredded chicken, mozzarella, cheddar, bacon, bbq, onions", "$14"],
 		              "Cheese Flatbread": ["na", "add pepperoni for $0.75", "$12"]
 			    }
@@ -35,7 +35,7 @@
 			    "subtitle": "Served with hand cut fries and pickle.  Substitute truffle fries for $2. Add a cup of chowder to any Sandwich for $6. Substitute a gluten free roll to any sandwich for $2",
 			    "menu_items": {
 			      "Chicken Sandwich": ["na", "grilled chicken w/ cheddar, bacon, lettuce, tomato & onion, garlic aioli. Served on a brioche roll", "$16"],
-			      "Lulu's Big Dog": ["na", "¼ lb all beef hotdog with grilled peppers, pickled onion & whole grain mustard", "$14", "na", "add bacon", "$2", "na", "add cheese", "$2"],
+			      "Lulu's Big Dog": ["na", "¼ lb all beef hotdog with grilled peppers, grilled onions & whole grain mustard", "$14", "na", "add bacon", "$2", "na", "add cheese", "$2"],
 			      "Pemi Sliders*": ["na", "2 angus beef patties topped with cheddar, bacon, garlic aioli, lettuce & tomato, on grilled brioche.", "$16"],
 			      "Banh Mi": ["na", "smoked pork, carrot, pickled cucumbers, jalapenos & fresh cilantro with spicy mayo, served on toasted french roll", "$16"],
 			      "Falafel Sandwich": ["na", "with herbed yogurt, cucumber salad, feta & pea shoots.  Served on a brioche roll", "$16"],
@@ -46,10 +46,10 @@
 			  {"section_title": "Public House Meals",
 			    "subtitle": "Add cup oof chowder to any meal for $6",
 			    "menu_items": {
-			      "Steak & Cheese Eggrolls": ["na", "lean grilled beef with a 3 cheese blend & sweet onions fried to a golden brown. Served with a roasted pepper salad & spicy pub dipping sauce", "$16"],
-			      "Asian Chicken": ["na", "marinated sesame ginger chicken with stir fried mixed vegetables. Served over Thai fried rice with ginger jus & crispy wontons", "$21"],
+			      "Steak & Cheese Eggrolls": ["na", "lean grilled beef with a 3 cheese blend & sweet onions fried to a golden brown. Served with a sweet corn jalapeno relish & spicy pub dipping sauce", "$16"],
+			      "Asian Chicken": ["na", "marinated sesame ginger chicken with stir fried mixed vegetables. Served over chilled orange sesame lo mein salad, sugar snap peas & crispy wontons", "$21"],
 			      "Grilled Chicken": ["gf", "marinated grilled chicken & roasted asparagus. Served over sliced tomatoes", "$16"],
-			      "Street Corn Shrimp": ["gf", "marinated grilled shrimp served over a cheesy street corn topped with pico de gallo, grilled peppers, pickled red onions, smashed avocado, cotija cheese and fresh cilantro", "$22", "na", "Try it with grilled chicken instead of shrimp", ""],    
+			      "Street Corn Shrimp": ["gf", "marinated grilled shrimp served over a cheesy street corn topped with pico de gallo, grilled peppers, pickled red onions, cotija cheese and fresh cilantro", "$22", "na", "Try it with grilled chicken instead of shrimp", ""],    
 			      "Naan Tacos": ["na", "adobo pulled chicken, cotija cheese, grilled peppers & onions, corn salsa, micro cilantro, lime sour cream on mini naan", "$17"]
 			    }
 			  },
